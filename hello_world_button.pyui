@@ -1,0 +1,32 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {634, 614}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : true,
+        "frame" : "{{277, 291}, {226, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "uuid" : "7A57B843-DBFF-4291-B707-403CFC364022",
+          "frame" : "{{277, 291}, {80, 32}}",
+          "title" : "Hello,World!",
+          "class" : "Button",
+          "name" : "hello_world_button",
+          "font_size" : 15
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]

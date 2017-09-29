@@ -1,0 +1,67 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {439, 374}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{176, 122}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "show_address_touch_up_inside",
+          "frame" : "{{180, 171}, {80, 32}}",
+          "title" : "Scarlett",
+          "uuid" : "DE54BDFC-85E6-47DF-8FA3-DBC2D09F2859",
+          "class" : "Button",
+          "name" : "Scarlett_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{180, 171}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "show_address_touch_up_inside",
+          "frame" : "{{180, 171}, {80, 32}}",
+          "title" : "Ottwa",
+          "uuid" : "9E6812F8-BF54-4A4A-B8DC-7BB16CBDE0CA",
+          "class" : "Button",
+          "name" : "Ottwa_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{180, 222}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "show_address_touch_up_inside",
+          "frame" : "{{180, 171}, {80, 32}}",
+          "title" : "Ontario",
+          "uuid" : "7312854D-0E57-4D5C-A9AD-017A7D1870BD",
+          "class" : "Button",
+          "name" : "Ontario_button",
+          "font_size" : 15
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
